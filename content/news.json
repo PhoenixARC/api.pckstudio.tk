@@ -1,0 +1,22 @@
+{
+	"new_version": {
+		"color": "var(--color-bright_ui)",
+		"text_color": "var(--color-accent_text)",
+		"graphic": {
+			"type": "image",
+			"source": "https://web.blockbench.net/content/splash_art.png?39",
+			"width": 630,
+			"height": 420
+		},
+		"text": [
+			{"text": "## PCK Studio 5.8"},
+			{"text": "### Highlights of this update:"},
+			{"type": "list", "list": [
+				"PCK Studio has been ported to Electron!",
+				"No longer limitations of Operating System!"
+			]},
+			{"text": "Make sure to read the [full changelog](https://github.com/JannisX11/blockbench/releases/tag/v3.9.0)!"},
+			{"text": "Splash Art by [LorenOLoren](https://twitter.com/LorenOLoren1) and [Dankbarkeit](https://twitter.com/Dxnkbarkeit)"}
+		]
+	}
+}
