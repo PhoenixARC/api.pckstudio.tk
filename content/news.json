@@ -4,7 +4,7 @@
 		"text_color": "var(--color-accent_text)",
 		"graphic": {
 			"type": "image",
-			"source": "https://web.blockbench.net/content/splash_art.png?39",
+			"source": "https://api.pckstudio.tk/content/splash_art.png?39",
 			"width": 630,
 			"height": 420
 		},
